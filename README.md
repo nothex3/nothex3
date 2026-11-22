@@ -1,92 +1,72 @@
-# Илья Шутов
+<h1 align="center">Hi, I'm Ilya Shutov 👋</h1>
 
-### Frontend / Fullstack Developer
+<p align="center">
+  <a href="https://github.com/nothex3">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=560&lines=Frontend+%2F+Fullstack+Developer;React+%C2%B7+TypeScript+%C2%B7+Node.js;Open+to+work+%E2%80%94+remote+%2F+Saint+Petersburg" alt="Typing SVG" />
+  </a>
+</p>
 
-Разрабатываю адаптивные веб-приложения на React и TypeScript. Есть около года проектной и фриланс-разработки: создавал интерфейсы по макетам, формы с валидацией, таблицы с поиском и фильтрацией, интеграции с REST API и небольшие fullstack-приложения.
+<p align="center">
+  Building responsive web apps with React and TypeScript: interfaces from mockups, forms with validation,
+  tables with search and filters, REST API integrations and small fullstack apps.<br/>
+  Currently also working as a platform engineer / integrator on a low-code ITSM platform (SimpleOne).
+</p>
 
-Сейчас ищу позицию Frontend или Fullstack Developer.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20work-Frontend%20%2F%20Fullstack-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Saint%20Petersburg%20%7C%20Remote-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-B2-orange?style=for-the-badge" />
+</p>
 
-## Технологии
+## 🛠 Tech stack
 
-**Frontend:** React, TypeScript, JavaScript, HTML5, CSS3, SCSS  
-**Backend:** Node.js, Express, REST API  
-**Databases:** PostgreSQL, MongoDB  
-**Testing:** Playwright  
-**Tools:** Git, GitHub, Docker, Vite, Postman, Figma
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</p>
 
-## Избранные проекты
+## 📌 Featured projects
 
-### Polza Agency Technical Test
+| Project | What it does | Stack |
+|---|---|---|
+| [**polza-technical-test**](https://github.com/nothex3/polza-technical-test) | Fullstack company directory: JSON/CSV import and normalization, deduplication, anomaly detection, server-side pagination, search and filters, SQL analytics, CI | Next.js, TypeScript, PostgreSQL, Docker, GitHub Actions |
+| [**network-solutions-requests-app**](https://github.com/nothex3/network-solutions-requests-app) | Request management app with client and server parts: create and process requests, filtering, state management, responsive UI | React, TypeScript, REST API |
+| [**responsive-online-courses**](https://github.com/nothex3/responsive-online-courses) | Courses catalog: live search, category filters, load more, empty state, responsive grid | JavaScript, SCSS |
+| [**async-url-checker**](https://github.com/nothex3/async-url-checker) | Asynchronous URL availability checker | TypeScript |
+| [**saucedemo-playwright**](https://github.com/nothex3/saucedemo-playwright) | End-to-end test suite for SauceDemo | Playwright, TypeScript |
 
-Fullstack-приложение для импорта, проверки и просмотра данных о компаниях.
+## 📊 GitHub stats
 
-- Next.js и TypeScript;
-- PostgreSQL и Docker Compose;
-- импорт и нормализация JSON/CSV;
-- дедупликация и поиск аномалий;
-- серверная пагинация;
-- поиск и фильтрация;
-- аналитические SQL-запросы;
-- GitHub Actions.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nothex3&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothex3&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nothex3&theme=tokyonight&hide_border=true" />
+</p>
 
-[Открыть репозиторий](https://github.com/nothex3/polza-technical-test)
+## 🌱 Currently learning
 
----
+React app architecture · advanced TypeScript · Next.js and server-side development · frontend testing · REST API design · CI/CD and containers
 
-### Network Solutions Requests App
+## 🇷🇺 Коротко по-русски
 
-Fullstack-приложение для управления заявками с клиентской и серверной частями.
+Frontend / Fullstack разработчик (React, TypeScript, Node.js), Санкт-Петербург. Ищу позицию на удалёнке или в СПб. Есть опыт интеграции и разработки на платформе SimpleOne (ITSM, low-code).
 
-- React и TypeScript;
-- REST API;
-- создание и обработка заявок;
-- фильтрация и управление состоянием;
-- адаптивный интерфейс.
+## 📫 Contacts
 
-[Открыть репозиторий](https://github.com/nothex3/network-solutions-requests-app)
-
----
-
-### Responsive Online Courses Catalog
-
-Адаптивный каталог курсов на чистом JavaScript.
-
-- поиск в реальном времени;
-- фильтрация по категориям;
-- постепенная загрузка карточек;
-- обработка пустого результата;
-- адаптивная сетка;
-- SCSS.
-
-[Открыть репозиторий](https://github.com/nothex3/test_adaptive_online_couses)
-
----
-
-### Async URL Checker
-
-Асинхронный сервис проверки доступности URL на TypeScript.
-
-[Открыть репозиторий](https://github.com/nothex3/async-url-checker)
-
----
-
-### SauceDemo Playwright Tests
-
-Набор end-to-end тестов для SauceDemo с использованием Playwright и TypeScript.
-
-[Открыть репозиторий](https://github.com/nothex3/saucedemo-playwright)
-
-## Сейчас развиваюсь в направлениях
-
-- архитектура React-приложений;
-- углублённый TypeScript;
-- Next.js и серверная разработка;
-- тестирование frontend-приложений;
-- проектирование REST API;
-- CI/CD и контейнеризация.
-
-## Контакты
-
-- Telegram: [@nothex3](https://t.me/nothex3)
-- Email: [shutovi03@mail.com](mailto:shutovi03@mail.com)
-- GitHub: [github.com/nothex3](https://github.com/nothex3)
+[![Telegram](https://img.shields.io/badge/Telegram-@nothex3-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/nothex3)
+[![Email](https://img.shields.io/badge/Email-shutovi03@mail.ru-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shutovi03@mail.ru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilya%20Shutov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-shutov-98b374450/)
